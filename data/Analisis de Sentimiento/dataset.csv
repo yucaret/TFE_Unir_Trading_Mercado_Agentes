@@ -1,0 +1,31 @@
+Id,Fuente,Fecha_publicacion,Texto_original,Idioma,Sentimiento
+1,bloomberg,2024-12-17,La caida del consumo interno aumenta la presion sobre el crecimiento en los mercados emergentes.,es,negativo
+2,cnbc,2025-01-08,Los datos manufactureros hunden la perspectiva de el euro con una vision pesimista.,es,negativo
+3,cnbc,2025-01-13,La contraccion de la demanda externa drena la fortaleza del el dolar.,es,negativo
+4,cnbc,2024-12-30,"El incremento de la inflacion erosiona la competitividad, señalan estudios.",es,negativo
+5,bloomberg,2025-01-11,La inestabilidad politica impone un clima adverso y empeora las perspectivas de el mercado global de divisas.,es,negativo
+6,reuters,2025-01-15,La contraccion de la demanda externa drena la fortaleza del el sector financiero.,es,negativo
+7,marketwatch,2025-01-03,"El incremento de la inflacion erosiona la competitividad, señalan estudios.",es,negativo
+8,sistema de reserva federal de USA,2024-12-20,La inestabilidad politica impone un clima adverso y empeora las perspectivas de el mercado europeo.,es,negativo
+9,twitter,2024-12-18,"La incertidumbre geopolitica anade riesgo y desata el pesimismo para las operaciones con el sector financiero, apuntan analistas.",es,negativo
+10,banco central europeo,2025-01-15,Los analistas alertan fuertes riesgos de recesion en el mercado global de divisas.,es,negativo
+11,facebook,2025-01-14,"El el indice bursatil registra fluctuaciones leves sin una tendencia definida, indican los portavoces.",es,neutral
+12,banco central europeo,2025-01-02,Las discusiones sobre politica monetaria no alteran de forma relevante el las acciones tecnologicas.,es,neutral
+13,bloomberg,2024-12-17,Las perspectivas economicas mixtas sostienen una posicion neutral en el mercado global de divisas.,es,neutral
+14,bloomberg,2024-12-23,"Las noticias geopoliticas no generan un impacto significativo en los mercados emergentes, segun expertos.",es,neutral
+15,sistema de reserva federal de USA,2024-12-27,Los analistas califican la jornada como 'sin tendencia marcada' ante la ausencia de noticias clave en los mercados emergentes .,es,neutral
+16,banco central europeo,2025-01-14,"Las noticias geopoliticas no generan un impacto significativo en la zona euro, segun expertos.",es,neutral
+17,reuters,2024-12-28,"Los informes corporativos muestran resultados alineados a las expectativas, sin sorpresas en el cambio de divisas como el dolar.",es,neutral
+18,cnbc,2024-12-29,"El mercado global de divisas mantiene su ritmo habitual de precio para el sector financiero, con leves movimientos intradía.",es,neutral
+19,banco central europeo,2024-12-28,"El el dolar registra fluctuaciones leves sin una tendencia definida, indican los portavoces.",es,neutral
+20,banco central europeo,2024-12-23,"La sesion europea arranca con movimientos acotados para las acciones tecnologicas, sin catalizadores claros.",es,neutral
+31,cnbc,2025-01-15,"El BCE proyecta una recuperacion solida, beneficiando a la moneda unica como el indice bursatil, segun recientes informes.",es,positivo
+32,cnbc,2024-12-26,"La estabilizacion geopolitica ofrece un respiro al mercado de divisas como el indice bursatil, senalan fuentes oficiales.",es,positivo
+33,facebook,2025-01-13,"Los acuerdos comerciales favorecen el crecimiento de el indice bursatil, reportan analistas.",es,positivo
+34,twitter,2024-12-20,"El crecimiento economico impulsa la zona euro, senalan analistas.",es,positivo
+35,banco central europeo,2024-12-31,"La expansion industrial impulsa la cotizacion de el EUR/USD, indican los portavoces.",es,positivo
+36,twitter,2025-01-09,"La reactivacion economica global impulsa la competitividad de el mercado estadounidense, senalan los datos.",es,positivo
+37,marketwatch,2024-12-25,"La expansion industrial impulsa la cotizacion de el EUR/USD, indican los portavoces.",es,positivo
+38,reuters,2024-12-24,"La expansion industrial impulsa la cotizacion de el sector financiero, indican los portavoces.",es,positivo
+39,financial times,2025-01-01,"La estabilizacion geopolitica ofrece un respiro al mercado de divisas como las acciones tecnologicas, senalan fuentes oficiales.",es,positivo
+40,facebook,2025-01-15,La Fed mantiene un tono moderado y promueve un entorno favorable para el crecimiento economico en la zona euro.,es,positivo
